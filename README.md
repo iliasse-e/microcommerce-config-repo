@@ -18,7 +18,7 @@ config-repo/
 
 Pour les microservices :
 
-```properties
+```xml
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-starter-config</artifactId>
@@ -27,7 +27,7 @@ Pour les microservices :
 
 Pour le server de configuration :
 
-```properties
+```xml
 <dependency>
   <groupId>org.springframework.cloud</groupId>
   <artifactId>spring-cloud-config-server</artifactId>
